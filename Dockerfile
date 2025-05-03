@@ -1,4 +1,4 @@
-FROM centos:7
+FROM almalinux:8
 RUN yum install -y httpd \
  zip\
  unzip
